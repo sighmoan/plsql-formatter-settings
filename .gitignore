@@ -42,3 +42,7 @@ Thumbs.db
 
 # maven-shade-plugin
 dependency-reduced-pom.xml
+
+# vs code extension
+**/node_modules
+*.vsix
